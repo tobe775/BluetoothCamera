@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">遠隔カメラ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 初期画面のメッセージ -->
+    <string name="connectInfo">遠隔カメラ</string>
+
+    <!-- Client側の画面 -->
+    <string name="select_device_title">送信先の選択</string>
+
+    <!-- Button text -->
+    <string name="bt_mes_on">TransferStart</string>
+    <string name="bt_mes_off">TransferStop</string>
+
+
+
+    <!--Icon List-->
+    <string name="icon_heart">&#xf001;</string>
+</resources>
