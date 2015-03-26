@@ -70,7 +70,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="受信側(Server)"
+                android:text="受信側"
                 android:gravity="center"
                 android:layout_centerInParent="true"
                 android:textColor="#ff200a40"/>
@@ -101,7 +101,7 @@
                 android:layout_weight="1"
                 android:layout_centerInParent="true"
                 android:gravity="center"
-                android:text="送信側(Client)"
+                android:text="送信側"
                 android:textColor="#ff200a40"/>
         </RelativeLayout>
     </LinearLayout>
